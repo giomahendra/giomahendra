@@ -1,7 +1,8 @@
-### Hi there 👋
+![language_stats](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=giomahendra&hide_langs_below=1&theme=tokyonight)
+![github stats](https://github-readme-stats-kappa-swart.vercel.app/api?username=giomahendra&show_icons=true&theme=tokyonight)
 
 <!--
-**giomahendra/giomahendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**giomahendra/readme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
