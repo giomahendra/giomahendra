@@ -1,5 +1,6 @@
 ![language_stats](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=giomahendra&hide_langs_below=1&theme=vue-dark)
 ![github stats](https://github-readme-stats-kappa-swart.vercel.app/api?username=giomahendra&count_private=true&show_icons=true&theme=vue-dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=giomahendra)
 
 <!--
 **giomahendra/readme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
